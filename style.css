@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  background: #0d0d0d;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 40px;
+}
+
+.gallery img {
+  width: 300px;
+  margin: 10px;
+  border-radius: 10px;
+}
