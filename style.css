@@ -9,7 +9,7 @@ body {
 .hero {
   position: relative;
   height: 100vh;
-  background: url("images/fondo-instagram.png") center/cover no-repeat;
+  background: url("images/fondo.jpeg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
