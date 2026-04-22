@@ -153,3 +153,37 @@ body {
 .whatsapp-float:hover {
   transform: scale(1.05);
 }
+/* REDES */
+.social {
+  padding: 40px 20px;
+  text-align: center;
+  background: #111;
+  color: white;
+}
+
+.social h2 {
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 20px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.social-links a {
+  color: white;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 30px;
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+.social-links a:hover {
+  background: white;
+  color: black;
+}
